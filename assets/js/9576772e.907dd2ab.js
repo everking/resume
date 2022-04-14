@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkresumex=self.webpackChunkresumex||[]).push([[605],{5915:function(e){e.exports=JSON.parse('{"allTagsPath":"/resume/blog/tags","name":"hola","count":1,"permalink":"/resume/blog/tags/hola"}')}}]);

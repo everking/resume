@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkresumex=self.webpackChunkresumex||[]).push([[522],{2304:function(e){e.exports=JSON.parse('{"permalink":"/resume/blog/tags/reactjs","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
