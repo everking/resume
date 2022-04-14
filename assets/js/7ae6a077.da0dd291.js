@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkresumex=self.webpackChunkresumex||[]).push([[350],{5954:function(e){e.exports=JSON.parse('{"allTagsPath":"/resume/blog/tags","name":"facebook","count":1,"permalink":"/resume/blog/tags/facebook"}')}}]);
