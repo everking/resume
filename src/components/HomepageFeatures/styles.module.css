@@ -9,3 +9,22 @@
   height: 200px;
   width: 200px;
 }
+
+.featureExperiences {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+li {
+  padding-top: 20px;
+}
+.featureExperienceItem {
+  width: 500px;
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.featureContainer {
+  padding-top: 70px;
+}

@@ -3,9 +3,59 @@
  * and scoped locally.
  */
 
+ @font-face {
+  font-family: Whisper;
+  src: url(fonts/Whisper-Regular.ttf);
+}
+
+@font-face {
+  font-family: MySoul;
+  src: url(fonts/MySoul-Regular.ttf);
+}
+
+@font-face {
+  font-family: Cairo;
+  src: url(fonts/Cairo-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: SquarePeg;
+  src: url(fonts/SquarePeg-Regular.ttf);
+}
+
+@font-face {
+  font-family: DancingScript;
+  src: url(fonts/DancingScript-VariableFont_wght.ttf);
+}
+
 .heroBanner {
   padding: 4rem 0;
   text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+h1 {
+  font-family: Cairo !important;
+}
+
+body {
+  font-family: Cairo !important;
+}
+
+h2 {
+  font-family: DancingScript !important;
+  font-size: 34pt;
+}
+
+h3 {
+  font-family: Cairo !important;
+  font-size: 18pt;
+}
+
+.subHeroBanner {
+  text-align: center;
+  font-size: 10px !important;
   position: relative;
   overflow: hidden;
 }
