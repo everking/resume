@@ -66,6 +66,11 @@ h3 {
   }
 }
 
+.connectLinkedIn {
+  margin-top: 50px;
+  text-align: center;
+}
+
 .buttons {
   display: flex;
   align-items: center;

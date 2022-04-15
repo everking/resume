@@ -26,6 +26,9 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
+        <div className={styles.connectLinkedIn}>
+          Connect with me through <a target="_blank" href="https://www.linkedin.com/in/ericdg/">LinkedIn</a> 
+        </div>
         <HomepageFeatures />
       </main>
     </Layout>
