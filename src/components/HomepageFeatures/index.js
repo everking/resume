@@ -4,6 +4,17 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
+    title: 'Skills',
+    img: require('@site/static/img/Skills_Banner.png').default,
+    experiences: [
+      "Highly proficient in Java, JavaScript/React/Redux, MySQL/RDS, Oracle, QL Server on Windows/UNIX/Docker/AWS and related technologies in areas of eCommerce, desktop and web product development and tools.      ",
+      "A good technical team leader and a (very) loyal follower. Follows Agile/Scrum best practices.",
+      "Likes to organize communities and tech talks and to find other opportunities to teach other engineers and to encourage them to teach others as well.",
+      "Engages teams and individuals in PM/XD/PD and end-users at a high level from ideas, concepts,  development, testing and to deployment.",
+      "Specialties: Dev Ops, Business and Technical Analysis, Research and Development, Engineering, Re-Engineering, Problem Solving, UX Design"
+    ],
+  },
+  {
     title: 'Staff Software Engineer',
     img: require('@site/static/img/Intuit_Banner.png').default,
     experiences: [
@@ -51,7 +62,7 @@ function Feature({img, title, periodAndLocation, experiences}) {
     <div className={styles.featureContainer}>
       <div className={clsx('col col--2')}>
         <div className="text--center">
-          <img src={img} height="180" />
+          <img src={img} height="220" />
         </div>
         <div className="text--center padding-horiz--md">
           <h3>{title}</h3>
