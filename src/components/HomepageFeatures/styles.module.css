@@ -10,6 +10,10 @@
   width: 200px;
 }
 
+.featureBanner {
+  max-width: 520px;
+}
+
 .featureExperiences {
   margin-left: auto;
   margin-right: auto;
@@ -19,7 +23,7 @@ li {
   padding-top: 20px;
 }
 .featureExperienceItem {
-  width: 500px;
+  max-width: 500px;
   text-align: left;
   margin-left: auto;
   margin-right: auto;
@@ -29,6 +33,3 @@ li {
   padding-top: 70px;
 }
 
-.connect {
-  text-align: center;
-}

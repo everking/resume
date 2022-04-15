@@ -62,7 +62,7 @@ function Feature({img, title, periodAndLocation, experiences}) {
     <div className={styles.featureContainer}>
       <div className={clsx('col col--2')}>
         <div className="text--center">
-          <img src={img} height="220" />
+          <img className={styles.featureBanner} src={img} />
         </div>
         <div className="text--center padding-horiz--md">
           <h3>{title}</h3>
