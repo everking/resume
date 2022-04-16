@@ -43,7 +43,9 @@ I'm creative and persistent enough that I'm able to find ways
 to do it in a lot of very different ways.
 
 By the way, I pride myself as an artist (graphics designer) 
-as well, so, I try to sprinkle that when there's an 
-opportunity to do so.
+as well, so, I try to sprinkle that wheneveer there's an 
+opportunity to do so. This website is an excellent example.
+
+Thank you for taking the time to read this blog post.
 
 Cheers!
