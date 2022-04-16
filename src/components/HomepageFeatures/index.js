@@ -15,7 +15,7 @@ const FeatureList = [
     ],
   },
   {
-    title: 'Staff Software Engineer',
+    title: 'Staff Software Engineer @ Intuit',
     img: require('@site/static/img/Intuit_Banner.png').default,
     experiences: [
       "The technical lead of a team of 5 partnering with Accounting core, Reports, Payroll and Timekeeping teams to manage and measure profitability of projects serviced by Small Businesses. Working on core QuickBooks online Java core code-base - both frontend and backend. Oversees agile practices, building relationships with external PD and care teams, planning. Frontend has legacy dojo components and more modern Typescript.",
@@ -31,7 +31,7 @@ const FeatureList = [
     periodAndLocation: "FEBRUARY 2006 - PRESENT,  MOUNTAIN VIEW, CA"
   },
   {
-    title: 'Senior Consultant',
+    title: 'Senior Consultant @ Chevron',
     img: require('@site/static/img/Chevron_Banner.png').default,
     experiences: [
       "Systems automation, System management and monitoring tools, Troubleshooting applications and services. Work included a lot of system scripting and building UI dashboards for server monitoring."
@@ -39,7 +39,7 @@ const FeatureList = [
     periodAndLocation: "AUGUST 2003 - FEBRUARY 2006,  SAN RAMON, CA"
   },
   {
-    title: 'Senior Consultant',
+    title: 'Senior Consultant @ ICRG',
     img: require('@site/static/img/ICRG_Banner.png').default,
     experiences: [
       "Assigned with a number of companies like Kikkoman, Uplister, Micrel, etc. Worked on mostly coding using Windows technologies like C#."
@@ -47,7 +47,7 @@ const FeatureList = [
     periodAndLocation: "MAY 2000 - AUGUST 2003, SAN MATEO, CA"
   },
   {
-    title: 'Senior Consultant',
+    title: 'Senior Consultant @ CIS',
     img: require('@site/static/img/CIS_Banner.png').default,
     experiences: [
       "Build the first version of 'Bayad Center' (Payment Center) where we deployed cash registers across Manila to accept payments for major companies in the Philippines. The payment service still exists: https://www.bayad.com/. During that time, the Internet was not wide-spread and certainly no mass deployment of broadband. Yet, we were able to transmit information back to our data center and was able to remotely update the application.",
