@@ -5,8 +5,8 @@ authors: [edeguzman]
 tags: [eric-deguzman, reactjs, docusaurus]
 ---
 
-Welcome to my docusaurus doc which I'm using to review 
-and enhance and showcase my front-end skills.
+Welcome to my website, which I'm using to review,
+enhance and showcase my front-end skills.
 
 However, as you can see in my [resume](/resume), I definitely 
 do a lot more than front-end develpment.
