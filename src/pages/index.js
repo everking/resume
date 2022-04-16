@@ -28,6 +28,7 @@ export default function Home() {
       <main>
         <div className={styles.connectLinkedIn}>
           Connect with me through <a target="_blank" href="https://www.linkedin.com/in/ericdg/">LinkedIn</a> 
+
         </div>
         <HomepageFeatures />
       </main>
