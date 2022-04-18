@@ -14,7 +14,7 @@ do a lot more than front-end develpment.
 I started my career writing firmware code using assembler language 
 that was literally burned into the chip to deploy to handheld computer.
 
-Since then, I'd beed working on databases, desktop applications, 
+Since then, I'd been working on databases, desktop applications, 
 systems management coding, and literally all aspects of web development.
 
 Essentially, I do what needs to be done. 
