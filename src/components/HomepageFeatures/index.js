@@ -50,7 +50,7 @@ const FeatureList = [
     title: 'Senior Consultant @ CIS',
     img: require('@site/static/img/CIS_Banner.png').default,
     experiences: [
-      "Build the first version of 'Bayad Center' (Payment Center) where we deployed cash registers across Manila to accept payments for major companies in the Philippines. The payment service still exists: https://www.bayad.com/. During that time, the Internet was not wide-spread and certainly no mass deployment of broadband. Yet, we were able to transmit information back to our data center and was able to remotely update the application.",
+      "Built the first version of 'Bayad Center' (Payment Center) where we deployed cash registers across Manila to accept payments for major companies in the Philippines. The payment service still exists: https://www.bayad.com/. During that time, the Internet was not wide-spread and certainly no mass deployment of broadband. Yet, we were able to transmit information back to our data center and was able to remotely update the application.",
       "Worked on mobile reader systems. Work included working on Windows printer drivers using C/C++ (worked with hardware team as well), a payment cashier system using Visual Basic, embedded OS changes and communication protocols."
     ],
     periodAndLocation: "MAY 1994 - MAY 1999, MANILA, PHILIPPINES"
