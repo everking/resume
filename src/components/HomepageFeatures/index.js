@@ -7,7 +7,7 @@ const FeatureList = [
     title: 'Skills',
     img: require('@site/static/img/Skills_Banner.png').default,
     experiences: [
-      "Highly proficient in Java, JavaScript/React/Redux, MySQL/RDS, Oracle, QL Server on Windows/UNIX/Docker/AWS and related technologies in areas of eCommerce, desktop and web product development and tools.      ",
+      "Worked extensively using Java, JavaScript/React/Redux, MySQL/RDS, Oracle on Windows/UNIX/Docker/AWS and related technologies in areas of eCommerce, desktop, web product development, systems development, automation and tools.",
       "A good technical team leader and a (very) loyal follower. Follows Agile/Scrum best practices.",
       "Likes to organize communities and tech talks and to find other opportunities to teach other engineers and to encourage them to teach others as well.",
       "Engages teams and individuals in PM/XD/PD and end-users at a high level from ideas, concepts,  development, testing and to deployment.",
