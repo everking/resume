@@ -2,7 +2,14 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 
-const FeatureList = [
+interface FeatureContent {
+  title:    string;
+  img:     string;
+  experiences: string[];
+  periodAndLocation?: string;
+}
+
+const FeatureList:FeatureContent[] = [
   {
     title: 'Skills',
     img: require('@site/static/img/Skills_Banner.png').default,
@@ -57,7 +64,7 @@ const FeatureList = [
   }
 ];
 
-function Feature({img, title, periodAndLocation, experiences}) {
+function Feature({img, title, periodAndLocation, experiences}:FeatureContent) {
   return (
     <div className={styles.featureContainer}>
       <div className={clsx('col col--2')}>
