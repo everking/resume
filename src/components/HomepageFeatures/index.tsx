@@ -64,7 +64,7 @@ const FeatureList:FeatureContent[] = [
   }
 ];
 
-function Feature({img, title, periodAndLocation, experiences}:FeatureContent) {
+function Feature({img, title, periodAndLocation, experiences}:FeatureContent): JSX.Element {
   return (
     <div className={styles.featureContainer}>
       <div className={clsx('col col--2')}>
@@ -89,7 +89,7 @@ function Feature({img, title, periodAndLocation, experiences}:FeatureContent) {
   );
 }
 
-export default function HomepageFeatures() {
+export default function HomepageFeatures(): JSX.Element {
   return (
     <section className={styles.features}>
       <div className="container">
